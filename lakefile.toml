@@ -1,0 +1,10 @@
+name = "primality2255"
+version = "0.1.0"
+defaultTargets = ["primality2255"]
+
+[[lean_lib]]
+name = "Primality2255"
+
+[[lean_exe]]
+name = "primality2255"
+root = "Main"
