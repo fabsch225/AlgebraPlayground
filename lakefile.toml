@@ -8,3 +8,7 @@ name = "Primality2255"
 [[lean_exe]]
 name = "primality2255"
 root = "Main"
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
