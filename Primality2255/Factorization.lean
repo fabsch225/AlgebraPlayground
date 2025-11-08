@@ -23,4 +23,4 @@ partial def factor_recursive : ℕ → List ℕ
     let q := n / d
     d :: factor_recursive q
 
-#eval factor_recursive 2255
+#eval factor_recursive 123
